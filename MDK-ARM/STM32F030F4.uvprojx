@@ -313,7 +313,7 @@
           </ArmAdsMisc>
           <Cads>
             <interw>1</interw>
-            <Optim>1</Optim>
+            <Optim>4</Optim>
             <oTime>0</oTime>
             <SplitLS>0</SplitLS>
             <OneElfS>1</OneElfS>
@@ -582,11 +582,6 @@
               <FileName>Command_Ping.c</FileName>
               <FileType>1</FileType>
               <FilePath>..\Core\Src\Command_Ping.c</FilePath>
-            </File>
-            <File>
-              <FileName>Command_Test.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\Core\Src\Command_Test.c</FilePath>
             </File>
             <File>
               <FileName>Commands.c</FileName>

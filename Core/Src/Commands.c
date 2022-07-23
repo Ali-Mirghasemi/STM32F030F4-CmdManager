@@ -2,13 +2,11 @@
 
 #include "CmdManager.h"
 
-//extern const Cmd CMD_TEST;
 extern const Cmd CMD_LED;
 extern const Cmd CMD_ECHO;
 extern const Cmd CMD_PING;
 
 static const Cmd_Array CMDS[] = {
-  //(Cmd_Array) &CMD_TEST,
   (Cmd_Array) &CMD_LED,
   (Cmd_Array) &CMD_ECHO,
   (Cmd_Array) &CMD_PING,
